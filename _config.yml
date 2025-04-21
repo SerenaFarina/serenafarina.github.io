@@ -149,7 +149,7 @@ collections:
       layout: post
     output: true
     permalink: /:collection/:title/
-  research:
+  projects:
     output: true
     permalink: /:collection/:title/
 
