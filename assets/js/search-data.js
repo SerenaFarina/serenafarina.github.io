@@ -50,6 +50,9 @@ ninja.data = [{
           section: "News",},{id: "news-cv-and-publications-pages-are-now-available-on-the-website",
           title: 'CV and Publications pages are now available on the website!',
           description: "",
+          section: "News",},{id: "news-at-spie-optics-photonics-2025-in-san-diego-i-will-be-talking-about-low-jitter-systems-for-photon-timing-from-my-ph-d-research-and-about-uv-detector-anomalies-for-metis-instrument-from-my-postdoc-research-stay-tuned",
+          title: 'At SPIE Optics+Photonics 2025 in San Diego I will be talking about low-jitter...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
