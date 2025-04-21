@@ -44,7 +44,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-cv-and-publications-pages-are-now-available-on-the-website",
+        },{id: "news-our-work-on-mcp-detectors-for-uv-astronomy-will-be-presented-at-spie-optics-optoelectronics-2025-in-prague-check-it-out-here",
+          title: 'Our work on MCP detectors for UV astronomy will be presented at SPIE...',
+          description: "",
+          section: "News",},{id: "news-cv-and-publications-pages-are-now-available-on-the-website",
           title: 'CV and Publications pages are now available on the website!',
           description: "",
           section: "News",},{
