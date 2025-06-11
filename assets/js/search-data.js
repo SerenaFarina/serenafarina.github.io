@@ -39,6 +39,12 @@ ninja.data = [{
           section: "News",},{id: "news-at-spie-optics-photonics-2025-in-san-diego-i-will-be-talking-about-low-jitter-systems-for-photon-timing-from-my-ph-d-research-and-about-uv-detector-anomalies-for-metis-instrument-from-my-postdoc-research-stay-tuned",
           title: 'At SPIE Optics+Photonics 2025 in San Diego I will be talking about low-jitter...',
           description: "",
+          section: "News",},{id: "news-new-article-out-our-work-on-pile-up-free-fluorescence-lifetime-imaging-with-a-spad-based-single-pixel-camera-is-now-available-on-optics-express-a-big-thank-to-all-collaborators",
+          title: 'New article out! Our work on Pile-up free fluorescence lifetime imaging with a...',
+          description: "",
+          section: "News",},{id: "news-i-m-happy-to-engage-students-in-an-electronic-lab-in-the-educating-future-citizen-school-at-iuss-find-the-program-here",
+          title: 'I’m happy to engage students in an Electronic lab in the Educating Future...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
