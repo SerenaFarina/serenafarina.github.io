@@ -6,6 +6,10 @@
   url: https://spie.org/conferences-and-exhibitions/defense-and-commercial-sensing
   color: "#1e1782"
 
+"SPIE OO":
+  url: https://spie.org/conferences-and-exhibitions/optics-and-optoelectronics
+  color: "#1e1782"
+
 "IEEE TIM":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19
 
