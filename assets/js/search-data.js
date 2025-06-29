@@ -45,7 +45,20 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-happy-to-engage-students-in-an-electronic-lab-in-the-educating-future-citizen-school-at-iuss-find-the-program-here",
           title: 'I’m happy to engage students in an Electronic lab in the Educating Future...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-interesting-opportunity-to-take-part-in-the-workshop-shaping-the-italian-contribution-to-hwo-my-colleague-will-present-our-work-on-uv-detectors-for-astronomy",
+          title: 'Interesting opportunity to take part in the workshop “Shaping the Italian contribution to...',
+          description: "",
+          section: "News",},{id: "projects-advanced-photon-timing-systems",
+          title: 'Advanced photon-timing systems',
+          description: "about the art of measuring tiny time intervals",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Advanced_photon_timing/";
+            },},{id: "projects-uv-detectors-for-astronomy",
+          title: 'UV detectors for astronomy',
+          description: "observing the universe with UV glasses",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Detectors_UV/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
